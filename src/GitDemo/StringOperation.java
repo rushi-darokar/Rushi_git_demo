@@ -26,9 +26,11 @@ public class StringOperation {
 		 System.out.println(FevCity==fevCountry);
 		 System.out.println(CapitalName==City); 
 		 
+		 System.out.println("Compare string using equals");
 		 System.out.println(CityName.equals(MyAddress));
 		 System.out.println(CountryName.equals(PopularCity));
 		 System.out.println(CityName.equals(LoveCity));
+		 
 	} 
 }
 
